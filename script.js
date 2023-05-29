@@ -1,2 +1,2 @@
 // alert("Hello User!!");
-consol.log("Hello User!!");
+consol.log("Hello User!!")
