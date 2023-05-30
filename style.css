@@ -8,4 +8,7 @@ h2{
   /* th, td {
     border-color: #96D4D4;
   } */
+  th, td {
+    border-bottom: 1px solid #ddd;
+  }
   tr:hover {background-color: coral;}
