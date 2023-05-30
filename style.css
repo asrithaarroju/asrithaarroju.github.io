@@ -8,6 +8,10 @@ h2{
   /* th, td {
     border-color: #96D4D4;
   } */
+  th {
+    background-color: #04AA6D;
+    color: white;
+  }
   th, td {
     padding: 15px;
     text-align: left;
