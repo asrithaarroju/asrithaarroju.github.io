@@ -1,8 +1,10 @@
-h2{
-    color:brown;
+h1{
+    color:rgb(0, 0, 0);
     
 }
-
+p{
+  text-align: center;
+}
   table {
     border-collapse: collapse;
     width: 100%;
@@ -11,13 +13,13 @@ h2{
     border: 1px solid;
   }
   th, td {
-    text-align: left;
-    padding: 8px;
+    text-align: center;
+    padding: 10px;
   }
    
   /* tr:nth-child(even){background-color: #f2f2f2} */
   th {
-    background-color: #3bc8ef;
-    color: white;
+    background-color: #0ab6f4;
+    color: rgb(14, 15, 15);
   }
   tr:hover {background-color: rgb(236, 252, 157);}
