@@ -1,2 +1,2 @@
-// alert("Hello User!!");
-consol.log("Hello User!!")
+alert("Welcome Asritha's Page!!");
+// consol.log("Wel!!")
