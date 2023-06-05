@@ -1,0 +1,31 @@
+.Dogs{
+    margin-left: 80px;
+}
+.Photo{
+    box-shadow: 0 4px 8px 0 rgba(0,0, 0,0.2);
+    width: 40%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+.Photo:hover{
+    box-shadow: 0 14px 18px 0 rgba(0,0, 0,0.2);
+}
+.name{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Breed{
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.toggle {
+    background-color: grey;
+    color: brown;
+}
