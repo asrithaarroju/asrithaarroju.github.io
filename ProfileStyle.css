@@ -14,11 +14,11 @@ body {
     
     box-shadow: 0 4px 6px 0 rgba(2, 2, 2, 0.2);
     width: 50%;
-    /* background-color: aliceblue;
+    background-color: aliceblue;
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-right: 50px; */
+    padding-right: 100px;
     transition: 1s;
 
     }
