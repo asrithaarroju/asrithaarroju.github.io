@@ -2,15 +2,15 @@
     margin-left: 90px;
 }
 .Photo{
-    box-shadow: 0 4px 8px 0 rgba(2, 2, 2, 0.2);
-    width: 40%;
+    box-shadow: 0 4px 6px 0 rgba(2, 2, 2, 0.2);
+    width: 30%;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    transition: 0.2s;
+    transition: 0.4s;
 }
 .Photo:hover{
-    box-shadow: 0 14px 18px 0 rgba(214, 234, 122, 0.2);
+    box-shadow: 0 14px 18px 0 rgba(207, 239, 65, 0.2);
 }
 .name{
     font-size: 25px;
