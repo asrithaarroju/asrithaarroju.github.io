@@ -1,7 +1,14 @@
+body {
+    background-image: url('p1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
 .Dogs{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  
 }
 .Photo{
     box-shadow: 0 4px 6px 0 rgba(2, 2, 2, 0.2);
