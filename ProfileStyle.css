@@ -12,14 +12,15 @@ body {
 }
 .Photo{
     box-shadow: 0 4px 6px 0 rgba(2, 2, 2, 0.2);
-    width: 30%;
+    width: 50%;
     background-color: aliceblue;
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 20px;
-    transition: 0.4s;
-}
+    transition: 1s;
+
+    }
 .Photo:hover{
     box-shadow: 0 14px 18px 0 rgba(211, 242, 8, 0.2);
 }
