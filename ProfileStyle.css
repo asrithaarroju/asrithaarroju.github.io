@@ -1,5 +1,7 @@
 .Dogs{
-    margin-left: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .Photo{
     box-shadow: 0 4px 6px 0 rgba(2, 2, 2, 0.2);
